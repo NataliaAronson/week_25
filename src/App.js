@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import PieChart from './PieChart.js';
+import PieChart from './components/PieChart.js';
 
 
 function App() {
